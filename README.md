@@ -1,13 +1,13 @@
 # Recipe App JavaScript
 
 ### Screenshot 1
-![Screenshot](img/screenshot1.png)
+ ![Screenshot](img/screenshot1.png)
 
 ### Screenshot 2
-![Screenshot](img/screenshot2.png)
+ ![Screenshot](img/screenshot2.png)
 
 ### Screenshot 3
-![Screenshot](img/screenshot3.png)
+ ![Screenshot](img/screenshot3.png)
 
 ## About This Project
 
